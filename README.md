@@ -218,6 +218,11 @@ npm run dev
 
 Then open **http://localhost:5173**.
 
+Created setup.sh to automate the setup process.
+```bash
+./setup.sh (for mac)
+sh setup.sh (for linux)
+```
 ---
 
 ## Environment Variables
